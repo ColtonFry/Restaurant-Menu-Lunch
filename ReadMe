@@ -1,11 +1,11 @@
  <!DOCTYPE html>
 <center>
-<head><h1>The Baja Inn Restaurant</h1></head>
+<head><h2><p style="color:blue;">The Baja Inn Restaurant</p> </h2></head>
 <style>
 body  {background-image: url("https://d9hyo6bif16lx.cloudfront.net/live/img/production/detail/menu/lunch-dinner_999-combohs_all-american-burger-fries.jpg");
  
  background-repeat:no-repeat;
-  background-size:100px;
+  background-size:200px;
   background-position:center;
   width: 400px;
   height: 550px;
@@ -22,14 +22,9 @@ body  {background-image: url("https://d9hyo6bif16lx.cloudfront.net/live/img/prod
  
 </head>
 
-<h2><b>LUNCH MENU</b></b>
-<h4>
+<h3><b><p style="color:blue;">LUNCH MENU</p></b></b>
+<h3> 
 
-
-<br>
-House Salad
-$4.49
-<br>
 <br>
 Italian Calzone
 <br>
@@ -58,7 +53,7 @@ $9.49
 Kid's Chicken and Fires
 $6.99
 <br>
-<h2>DRINKS</h2>
+<h4><p style="color:blue;">DRINKS</p></h4>
 <h4>
 Coffee
 $1.00
@@ -75,4 +70,3 @@ $1.50
 </h4>
 
 </body>
-
