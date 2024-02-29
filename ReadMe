@@ -1,0 +1,75 @@
+ <!DOCTYPE html>
+<center>
+<head><h1>The Baja Inn Restaurant</h1></head>
+<style>
+body  {background-image: url("https://d9hyo6bif16lx.cloudfront.net/live/img/production/detail/menu/lunch-dinner_999-combohs_all-american-burger-fries.jpg");
+ 
+ background-repeat:no-repeat;
+  background-size:100px;
+  background-position:center;
+  width: 400px;
+  height: 550px;
+  border: 8px solid;
+  padding-top: 10px;
+  padding-right:10px;
+  padding-bottom:10px;
+  padding-left:10px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-right: 10px;
+  margin-left: 10px;</style>
+  
+ 
+</head>
+
+<h2><b>LUNCH MENU</b></b>
+<h4>
+
+
+<br>
+House Salad
+$4.49
+<br>
+<br>
+Italian Calzone
+Small $6.49
+Large $11.95
+<br>
+<br>
+Chicken Club Sandwich
+$11.49
+<br>
+<br>
+Italian Hoagie
+Small 6" $5.49
+Large 12" $10.99
+<br>
+<br>
+Brushetta Burger
+$10.95
+<br>
+<br>
+Spaghetti
+$9.49
+<br>
+<br>
+Kid's Chicken and Fires
+$6.99
+<br>
+<h2>DRINKS</h2>
+<h4>
+Coffee
+$1.00
+<br>
+Soft Drinks
+Pepsi,
+Mt. Dew,
+Root Beer,
+Slice
+$1.00
+<br>
+Orange Juice & Apple Juice
+$1.50
+</h4>
+
+</body>
